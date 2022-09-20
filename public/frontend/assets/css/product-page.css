@@ -1,0 +1,28 @@
+.select2-container--default .color-preview {
+    height: 12px;
+    width: 12px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.m_t_30{
+    margin-top: -30px;
+}
+.radio_bdt{
+    float: left; width: 15%;
+}
+.radio_usd{
+    float: right; width: 15%;
+}
+.m_l_10{
+    margin-left: 10px !important;
+}
+.p_t_20{
+    padding-top: 20px;
+}
+.resize{
+    padding: 0 15px;
+}
+.font_16{
+    font-size: 16px!important;
+}
